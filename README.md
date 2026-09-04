@@ -1,0 +1,2 @@
+# IdeaSparkEsp8266
+学校説明会でidea spark esp8266を用いてDHT11のデモをするため用
